@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54615a1a-d18d-494c-8722-d0acd3fe1cbd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZpBcWK6fiiJ3KuN8796Qewu2A" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="mikitapushnou" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mikitapushnou.example" />
+      <recent name="mikitapushnou" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/nikitapushnov/IdeaProjects/itAcademy/QA Automation course/homework/Lesson 6/src/test/java/mikitapushnou/suite.xml">
+    <configuration name="StringOperationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mikitapushnou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mikitapushnou" />
+      <option name="MAIN_CLASS_NAME" value="mikitapushnou.StringOperationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationTest.testAddStringToTheBeginningOfTheSentence" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mikitapushnou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mikitapushnou" />
+      <option name="MAIN_CLASS_NAME" value="mikitapushnou.StringOperationTest" />
+      <option name="METHOD_NAME" value="testAddStringToTheBeginningOfTheSentence" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationTest.testAddStringToTheMiddleOfTheSentence" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mikitapushnou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mikitapushnou" />
+      <option name="MAIN_CLASS_NAME" value="mikitapushnou.StringOperationTest" />
+      <option name="METHOD_NAME" value="testAddStringToTheMiddleOfTheSentence" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationTest.testGetDecimaOfTheSizeOfTheString" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mikitapushnou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mikitapushnou" />
+      <option name="MAIN_CLASS_NAME" value="mikitapushnou.StringOperationTest" />
+      <option name="METHOD_NAME" value="testGetDecimaOfTheSizeOfTheString" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/nikitapushnov/IdeaProjects/itAcademy/QA Automation course/homework/Lesson 6/src/test/java/mikitapushnou/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGHomework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/mikitapushnou/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/nikitapushnov/IdeaProjects/itAcademy/QA Automation course/homework/Lesson 6/src/test/java/mikitapushnou/suite.xml" />
+        <item itemvalue="TestNG.StringOperationTest" />
+        <item itemvalue="TestNG.StringOperationTest.testGetDecimaOfTheSizeOfTheString" />
+        <item itemvalue="TestNG.StringOperationTest.testAddStringToTheBeginningOfTheSentence" />
+        <item itemvalue="TestNG.StringOperationTest.testAddStringToTheMiddleOfTheSentence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54615a1a-d18d-494c-8722-d0acd3fe1cbd" name="Default Changelist" comment="" />
+      <created>1581263336114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581263336114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestNGHomework$_Users_nikitapushnov_IdeaProjects_itAcademy_QA_Automation_course_homework_Lesson_6_src_test_java_mikitapushnou_suite_xml.ic" NAME="$PROJECT_DIR$/src/test/java/mikitapushnou/suite.xml Coverage Results" MODIFIED="1581274985933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

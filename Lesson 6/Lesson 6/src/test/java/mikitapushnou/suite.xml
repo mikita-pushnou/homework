@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="TestOne">
+        <classes>
+            <class name="mikitapushnou.StringOperationTest"/>
+            <class name="mikitapushnou.StringOperation2Test"/>
+            <class name="mikitapushnou.StringOperation3Test"/>
+        </classes>
+    </test>
+    <test name="TestTwo">
+        <packages>
+            <package name="mikitapushnou.example">
+                <classes>
+                    <class name="mikitapushnou.example.StringOperation4Test">
+                        <methods>
+                            <exclude name="testAddStringToTheBeginningOfTheSentence"/>
+                        </methods>
+                    </class>
+                </classes>
+            </package>
+        </packages>
+    </test>
+</suite>

@@ -1,0 +1,27 @@
+select * from Categories
+select CategoryID, CategoryName from Categories
+select Address from Suppliers
+select * from Products order by price desc
+select * from Orders order by CustomerID, ShipperID
+select * from Products where price > 40 order by ProductName desc
+select * from Products where price between 20 and 50 order by Unit
+select * from Products where price between 20 and 100 or CategoryID = 6
+select * from Products where price in (46, 53, 55)
+select * from Products where price = 46 or price = 53 or price = 55
+select * from Products where price not in (46, 53, 55)
+select * from Products where ProductName like "%han%"
+insert into Shippers (ShipperName, Phone)
+values ("TestValue", "375291111111")
+insert into Shippers (ShipperID, ShipperName, Phone)
+values (5, "TestValue2", "375290000000")
+insert into Categories(CategoryName, Description) select ShipperName, Phone from Shippers
+insert into Categories(CategoryName, Description) select ShipperName, Phone from Shippers where ShipperName = "Speedy Express"
+delete from Shippers where ShipperName = "Speedy Express"
+delete from Products where Price < 50
+delete from Orders
+update Categories
+set Description = "test value"
+where CategoryID = 1
+update Products
+set Price = 99999
+where ProductName = "Chais"
